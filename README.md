@@ -4,7 +4,7 @@ Projeto de cadastro de usuários utilizando Spring Boot, Spring Security com aut
 
 ## Tecnologias Utilizadas
 
-- **Java**: 17
+- **Java**: 21
 - **Spring Boot**: Framework para desenvolvimento de aplicações Java.
 - **Spring Security**: Framework de segurança para autenticação e autorização.
 - **JWT (JSON Web Token)**: Método de autenticação baseado em tokens.
